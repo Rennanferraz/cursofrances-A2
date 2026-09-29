@@ -1,0 +1,1302 @@
+{
+  "id": "passe-compose-imparfait",
+  "order": 19,
+  "titleFr": "Le passé composé vs l’imparfait",
+  "classification": "A2 — Parcours principal",
+  "prerequisites": [
+    "u18"
+  ],
+  "objectivesFr": [
+    "Choisir une perspective pour raconter le passé",
+    "Former et accorder les deux temps dans les cas étudiés",
+    "Distinguer un événement, une habitude et un cadre",
+    "Expliquer un changement de sens quand le temps change",
+    "Construire un récit avec les deux temps"
+  ],
+  "situationFr": "Vous racontez une expérience de transport, de repas, de logement ou de cours, en distinguant les événements et leur contexte.",
+  "sections": [
+    {
+      "id": "passe-compose-imparfait-s01",
+      "topicId": "passe-compose-imparfait.pc-forme",
+      "titleFr": "Reconstruire le passé composé",
+      "paragraphsPt": [
+        "Reconstitua as duas peças do passé composé : auxiliar no presente e particípio passado. Com avoir, `j’ai acheté`, `nous avons pris`, `elle a lu`. Com être nos usos ensinados, `elle est arrivée`, `ils sont partis`. Os particípios regulares incluem parlé, fini e vendu ; entre os frequentes irregulares estão fait, pris, mis, dit, écrit, lu, vu, bu, eu, été, pu, voulu, dû, venu e ouvert.",
+        "A escolha do auxiliar depende do verbo e da construção, não da ideia de movimento : `elle a marché`, mas `elle est arrivée`. Nos casos simples com être, o particípio concorda com o sujeito ; nos exemplos com avoir e objeto posterior, não concorda apenas com o sujeito. Retome ainda `elle s’est levée`, `elle s’est lavé les mains` e `elles se sont parlé`, com os cuidados da U17. Formar corretamente é uma etapa diferente de escolher a perspectiva narrativa."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c01",
+        "instructionFr": "Une femme raconte son arrivée. Quelle forme complète convient : je suis arrivée ou j’ai arrivée ?",
+        "answerFr": "Je suis arrivée.",
+        "explanationPt": "Arriver usa être nesse uso e o particípio concorda com a narradora feminina.",
+        "topicIds": [
+          "passe-compose-imparfait.pc-forme"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s02",
+      "topicId": "passe-compose-imparfait.imp-forme",
+      "titleFr": "Reconstruire l’imparfait",
+      "paragraphsPt": [
+        "O imperfeito é simples : base de nous no presente sem ons, mais `ais, ais, ait, ions, iez, aient`. `Nous prenons → je prenais`, `nous faisons → elle faisait`, `nous lisons → ils lisaient`. Être usa ét- : j’étais, nous étions. Manger conserva e antes de a em mangeais, mas não antes de i em mangions ; étudier dá nous étudiions.",
+        "A negação envolve a forma conjugada : `je ne comprenais pas`. Com pronominal, mantenha o pronome, sem auxiliar : `elle se levait`, `nous nous préparions`. Não construa um “imperfeito composto” com nous étions parlé. Se a forma parece difícil, volte à base do presente com nous ; a escolha de tempo não dispensa a revisão da conjugação."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c02",
+        "instructionFr": "Formez faire à l’imparfait avec nous à partir de nous faisons.",
+        "answerFr": "Nous faisions.",
+        "explanationPt": "A base fais- recebe ions ; não se usa o particípio fait na formação do imperfeito.",
+        "topicIds": [
+          "passe-compose-imparfait.imp-forme"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s03",
+      "topicId": "passe-compose-imparfait.cadre-evenement",
+      "titleFr": "Le cadre et les événements du récit",
+      "paragraphsPt": [
+        "Compare `La salle était froide` e `Nous avons fermé la fenêtre`. A primeira apresenta uma característica da cena ; a segunda relata uma intervenção como acontecimento. O imperfeito permite observar o contexto de dentro, sem desenhar seus limites ; o passé composé apresenta a ocorrência globalmente, como uma etapa ou um fato recortado.",
+        "Não transforme essa distinção em uma obrigação de alternar sempre um tempo de cada vez. Um relato pode ter várias frases de contexto e depois uma sequência de acontecimentos, ou pode começar por um evento e explicar o cenário depois. Pergunte qual informação a frase acrescenta : como era a situação naquele momento, ou o que aconteceu dentro do recorte escolhido? O tempo também pode mudar o foco de um mesmo verbo."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c03",
+        "instructionFr": "Dans « La salle était froide, alors nous avons fermé la fenêtre », quelle partie fait avancer la suite des événements ?",
+        "answerFr": "Nous avons fermé la fenêtre.",
+        "explanationPt": "A condição da sala fornece o contexto ; o fechamento é relatado como uma ação dentro da sequência.",
+        "topicIds": [
+          "passe-compose-imparfait.cadre-evenement"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s04",
+      "topicId": "passe-compose-imparfait.habitude-bilan",
+      "titleFr": "Une habitude ou un bilan de répétitions",
+      "paragraphsPt": [
+        "`Quand je suivais ce cours, je prenais le bus le mardi` apresenta uma rotina de uma época. `Pendant ce stage de deux semaines, j’ai pris le bus six fois` reúne ocorrências em um balanço delimitado. Nos dois casos, há repetição ; o contraste é entre descrever uma prática habitual e contar um conjunto de episódios como um todo.",
+        "Por isso, toujours, souvent e chaque jour não são comandos automáticos de imperfeito. `J’ai toujours aimé lire` pode fazer um balanço de uma experiência até agora, enquanto `À cette époque, je lisais toujours avant le cours` descreve uma rotina. Nas atividades, o contexto especifica o recorte para que a escolha não dependa de uma pista isolada. Outra perspectiva pode ser possível em outro relato, sem tornar ambas equivalentes neste enunciado."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c04",
+        "instructionFr": "Pourquoi « six fois pendant ce stage » peut-il apparaître au passé composé ?",
+        "answerFr": "Parce que le locuteur présente un ensemble délimité d’occurrences comme un bilan.",
+        "explanationPt": "Repetição não basta para impor imperfeito ; contar um total delimitado é outra perspectiva.",
+        "topicIds": [
+          "passe-compose-imparfait.habitude-bilan"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s05",
+      "topicId": "passe-compose-imparfait.encours",
+      "titleFr": "Observer une activité quand un événement survient",
+      "paragraphsPt": [
+        "`Je préparais le dîner quand Ana est arrivée` coloca a preparação em andamento no momento da chegada. O imperfeito não afirma que o jantar nunca foi terminado ; a preparação pode continuar depois. A chegada é apresentada globalmente, sem que sua duração física precise ser de uma fração de segundo.",
+        "Também é possível mostrar atividades simultâneas de fundo : `Pendant que je préparais le dîner, Ana lisait le message`. Aqui, nenhuma das duas é necessariamente o evento principal. Quando serve apenas para ligar duas etapas, quand pode aparecer com outros tempos : `Quand Ana est arrivée, nous avons commencé le repas`. Leia a relação inteira, não a palavra quand isolada. A chamada “interrupção” é uma possibilidade de contexto, não a definição do imperfeito."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c05",
+        "instructionFr": "Dans une activité au moment d’une arrivée, l’imparfait signifie-t-il que l’activité est restée inachevée pour toujours ?",
+        "answerFr": "Non. Il ne donne pas à lui seul cette information.",
+        "explanationPt": "O tempo focaliza o andamento no ponto de referência ; o resultado posterior depende do restante do relato.",
+        "topicIds": [
+          "passe-compose-imparfait.encours"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s06",
+      "topicId": "passe-compose-imparfait.duree",
+      "titleFr": "La durée ne décide pas à elle seule",
+      "paragraphsPt": [
+        "`J’ai attendu le bus pendant quarante minutes` pode apresentar toda a espera como episódio delimitado. `À dix-huit heures, j’attendais encore le bus` observa a espera em curso naquele momento. A mesma situação real pode ser vista globalmente ou de dentro ; a duração longa ou curta não determina automaticamente o tempo.",
+        "Não confunda “apresentado sem limites na frase” com “sem fim na realidade”. Uma aula descrita por `le professeur expliquait la consigne` terminou em algum momento, mas a frase não focaliza esse fim. Da mesma maneira, um passé composé pode ter consequência atual : `J’ai perdu mon billet` pode explicar uma dificuldade presente. O contraste não é “ainda vale hoje versus não vale hoje”."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c06",
+        "instructionFr": "Une attente de quarante minutes oblige-t-elle l’imparfait parce qu’elle est longue ?",
+        "answerFr": "Non. Elle peut être racontée comme un épisode entier au passé composé.",
+        "explanationPt": "O ponto de vista é decisivo ; a extensão no relógio não impõe o tempo.",
+        "topicIds": [
+          "passe-compose-imparfait.duree"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s07",
+      "topicId": "passe-compose-imparfait.paires-sens",
+      "titleFr": "Changer de temps peut changer l’interprétation",
+      "paragraphsPt": [
+        "Primeiro par : `Je savais où était la salle` apresenta um conhecimento já disponível no contexto ; `J’ai su où était la salle à ce moment-là` pode apresentar o momento em que a informação foi obtida. O verbo não apenas muda de aparência : o relato passa de estado de saber para descoberta ou acesso à informação, conforme o contexto.",
+        "Segundo par : `Je pouvais venir` descreve uma possibilidade ou capacidade naquele momento, sem afirmar sozinho que a pessoa veio ; `J’ai pu venir` costuma apresentar a possibilidade concretizada, isto é, consegui vir. Compare ainda `Je voulais parler au responsable`, intenção de fundo, e `J’ai voulu parler au responsable`, tentativa ou decisão recortada, cujo resultado precisa do contexto. Essas leituras são tendências nos cenários apresentados, não traduções obrigatórias de cada forma em toda frase."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c07",
+        "instructionFr": "« Je pouvais venir » affirme-t-il nécessairement que la personne est effectivement venue ?",
+        "answerFr": "Non. La phrase présente une possibilité dans le contexte.",
+        "explanationPt": "A realização pode ser explicitada depois. J’ai pu venir, no cenário contrastado, apresenta a possibilidade concretizada.",
+        "topicIds": [
+          "passe-compose-imparfait.paires-sens"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s08",
+      "topicId": "passe-compose-imparfait.marqueurs",
+      "titleFr": "Lire hier, quand, toujours et depuis avec le contexte",
+      "paragraphsPt": [
+        "Hier situa no dia anterior, mas aceita `Hier, j’ai pris le bus` e `Hier, à huit heures, j’attendais le bus`. Quand introduz uma relação entre fatos, sem escolher automaticamente o tempo de cada verbo. Toujours pode descrever rotina ou participar de um balanço. Não use uma tabela de marcadores como algoritmo sem interpretação.",
+        "Desde a U14, você conhece a diferença entre `j’ai commencé il y a trois mois` e `j’étudie depuis trois mois`. Em um relato passado, `j’étudiais depuis trois mois quand j’ai changé de groupe` desloca a referência : o estudo já durava três meses naquele ponto do passado. Essa construção não afirma que o curso continua hoje. A referência precisa ser identificada antes de traduzir “há” ou “desde”."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c08",
+        "instructionFr": "Dans « j’étudiais depuis trois mois quand j’ai changé de groupe », les trois mois vont-ils nécessairement jusqu’à aujourd’hui ?",
+        "answerFr": "Non. Ils vont jusqu’au point passé du changement de groupe.",
+        "explanationPt": "Depuis se relaciona ao ponto de referência do relato, que aqui é passado.",
+        "topicIds": [
+          "passe-compose-imparfait.marqueurs"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s09",
+      "topicId": "passe-compose-imparfait.strategie",
+      "titleFr": "Une stratégie de choix en quatre questions",
+      "paragraphsPt": [
+        "Primeiro, identifique a cena e o momento de referência. Segundo, pergunte se você quer apresentar uma ocorrência ou um conjunto como um todo, ou descrever estado, rotina e andamento naquele ponto. Terceiro, teste o efeito da outra escolha : ela mudaria o recorte, sugeriria descoberta, realização ou outro foco? Quarto, confira forma, auxiliar, particípio e concordância.",
+        "A estratégia não promete eliminar toda ambiguidade real da língua. Em um exercício objetivo, o enunciado deve delimitar a perspectiva ; na fala ou escrita livre, você pode escolher uma narrativa diferente e explicá-la. Uma correção útil distingue erro de formação de mudança legítima de sentido. Antes de marcar uma resposta como errada, leia também o sujeito e o segmento exato pedido na lacuna."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c09",
+        "instructionFr": "Que faut-il vérifier après avoir choisi la perspective ?",
+        "answerFr": "La formation : base ou auxiliaire, terminaison ou participe, et accord nécessaire.",
+        "explanationPt": "Uma escolha de tempo adequada pode ainda conter erro de forma ; os dois controles são complementares.",
+        "topicIds": [
+          "passe-compose-imparfait.strategie"
+        ]
+      }
+    },
+    {
+      "id": "passe-compose-imparfait-s10",
+      "topicId": "passe-compose-imparfait.recit",
+      "titleFr": "Construire un récit avec les deux temps",
+      "paragraphsPt": [
+        "Planeje o relato com contexto, acontecimentos e resultado. Por exemplo : `La salle était pleine et plusieurs personnes attendaient à l’entrée. Ana est arrivée à dix-neuf heures. Elle a demandé une place et nous avons déplacé une chaise`. O contexto explica a ação, e os acontecimentos conduzem a uma solução.",
+        "Não substitua todas as descrições por passé composé apenas porque a história terminou. Também não coloque todo o texto no imperfeito porque se trata de lembrança. Uma lembrança pode contar acontecimentos e descrever o cenário ao mesmo tempo. Ao revisar, destaque os verbos por função, não por comprimento da ação, e verifique se o leitor consegue reconstruir o que mudou e o que servia de contexto."
+      ],
+      "checkpoint": {
+        "id": "passe-compose-imparfait-c10",
+        "instructionFr": "Dans un souvenir, peut-on employer les deux temps ?",
+        "answerFr": "Oui. Le souvenir peut contenir un cadre, des habitudes et des événements.",
+        "explanationPt": "O gênero lembrança não impõe um tempo único ; a organização da informação determina a perspectiva de cada parte.",
+        "topicIds": [
+          "passe-compose-imparfait.recit"
+        ]
+      }
+    }
+  ],
+  "examples": [
+    {
+      "id": "passe-compose-imparfait-e01",
+      "topicIds": [
+        "passe-compose-imparfait.pc-forme"
+      ],
+      "fr": "Ana est arrivée à la gare et elle a acheté un billet.",
+      "pt": "Ana chegou à estação e comprou uma passagem.",
+      "notePt": "Dois acontecimentos se sucedem ; arriver usa être e acheter usa avoir."
+    },
+    {
+      "id": "passe-compose-imparfait-e02",
+      "topicIds": [
+        "passe-compose-imparfait.imp-forme"
+      ],
+      "fr": "À cette époque, nous faisions le trajet en train et nous lisions pendant le voyage.",
+      "pt": "Naquela época, fazíamos o trajeto de trem e líamos durante a viagem.",
+      "notePt": "Faisions e lisions descrevem rotina ; as bases vêm de faisons e lisons."
+    },
+    {
+      "id": "passe-compose-imparfait-e03",
+      "topicIds": [
+        "passe-compose-imparfait.cadre-evenement"
+      ],
+      "fr": "Le magasin était presque vide quand j’ai demandé une autre taille.",
+      "pt": "A loja estava quase vazia quando pedi outro tamanho.",
+      "notePt": "O estado do comércio é contexto ; o pedido entra como acontecimento."
+    },
+    {
+      "id": "passe-compose-imparfait-e04",
+      "topicIds": [
+        "passe-compose-imparfait.habitude-bilan"
+      ],
+      "fr": "Quand je travaillais dans ce quartier, je déjeunais au café le vendredi.",
+      "pt": "Quando eu trabalhava neste bairro, almoçava no café às sextas.",
+      "notePt": "A frase apresenta uma prática habitual ligada a uma época, sem contar cada almoço."
+    },
+    {
+      "id": "passe-compose-imparfait-e05",
+      "topicIds": [
+        "passe-compose-imparfait.habitude-bilan"
+      ],
+      "fr": "Pendant ma semaine de formation, j’ai déjeuné trois fois dans ce café.",
+      "pt": "Durante minha semana de formação, almocei três vezes nesse café.",
+      "notePt": "As três ocorrências são reunidas em um balanço delimitado ; repetição não obriga imperfeito."
+    },
+    {
+      "id": "passe-compose-imparfait-e06",
+      "topicIds": [
+        "passe-compose-imparfait.encours"
+      ],
+      "fr": "Je préparais la soupe quand le téléphone a sonné ; j’ai répondu, puis j’ai continué la préparation.",
+      "pt": "Eu preparava a sopa quando o telefone tocou; atendi e depois continuei o preparo.",
+      "notePt": "O restante do relato confirma que a atividade não ficou inacabada ; a interrupção não define por si só o tempo."
+    },
+    {
+      "id": "passe-compose-imparfait-e07",
+      "topicIds": [
+        "passe-compose-imparfait.duree"
+      ],
+      "fr": "J’ai attendu le bus pendant quarante minutes, puis j’ai décidé de marcher.",
+      "pt": "Esperei o ônibus durante quarenta minutos e depois decidi caminhar.",
+      "notePt": "A espera longa é apresentada como episódio global antes da decisão seguinte."
+    },
+    {
+      "id": "passe-compose-imparfait-e08",
+      "topicIds": [
+        "passe-compose-imparfait.duree"
+      ],
+      "fr": "À dix-huit heures, j’attendais encore le bus devant mon ancien immeuble.",
+      "pt": "Às dezoito, eu ainda esperava o ônibus em frente ao meu antigo prédio.",
+      "notePt": "A frase observa a espera em curso naquele ponto, sem informar seus limites."
+    },
+    {
+      "id": "passe-compose-imparfait-e09",
+      "topicIds": [
+        "passe-compose-imparfait.paires-sens"
+      ],
+      "fr": "Je savais où était la salle, alors je n’ai pas demandé le chemin.",
+      "pt": "Eu sabia onde ficava a sala, então não pedi o caminho.",
+      "notePt": "Savais apresenta um conhecimento já disponível, que explica a ausência de pergunta."
+    },
+    {
+      "id": "passe-compose-imparfait-e10",
+      "topicIds": [
+        "passe-compose-imparfait.paires-sens"
+      ],
+      "fr": "J’ai su où était la salle quand Ana a envoyé le plan.",
+      "pt": "Fiquei sabendo onde ficava a sala quando Ana enviou o mapa.",
+      "notePt": "Ai su apresenta a obtenção da informação naquele momento ; a mudança de tempo altera o foco."
+    },
+    {
+      "id": "passe-compose-imparfait-e11",
+      "topicIds": [
+        "passe-compose-imparfait.paires-sens"
+      ],
+      "fr": "Je pouvais venir au cours, mais j’ai finalement choisi de rester chez moi.",
+      "pt": "Eu podia vir à aula, mas acabei escolhendo ficar em casa.",
+      "notePt": "Pouvais não garante a realização ; a sequência informa que a possibilidade não foi usada."
+    },
+    {
+      "id": "passe-compose-imparfait-e12",
+      "topicIds": [
+        "passe-compose-imparfait.paires-sens"
+      ],
+      "fr": "Grâce au nouvel horaire, j’ai pu venir au cours samedi.",
+      "pt": "Graças ao novo horário, consegui vir à aula no sábado.",
+      "notePt": "Ai pu apresenta a possibilidade concretizada no episódio, diferente de uma disponibilidade apenas descrita."
+    },
+    {
+      "id": "passe-compose-imparfait-e13",
+      "topicIds": [
+        "passe-compose-imparfait.marqueurs"
+      ],
+      "fr": "Hier, à huit heures, je lisais les annonces quand le train est arrivé.",
+      "pt": "Ontem, às oito, eu lia os avisos quando o trem chegou.",
+      "notePt": "Hier situa a cena ; não determina automaticamente o tempo dos dois verbos."
+    },
+    {
+      "id": "passe-compose-imparfait-e14",
+      "topicIds": [
+        "passe-compose-imparfait.marqueurs"
+      ],
+      "fr": "J’habitais dans cet appartement depuis deux mois quand j’ai rencontré ma voisine.",
+      "pt": "Eu morava nesse apartamento havia dois meses quando conheci minha vizinha.",
+      "notePt": "Depuis mede até o ponto passado do encontro, não necessariamente até hoje."
+    },
+    {
+      "id": "passe-compose-imparfait-e15",
+      "topicIds": [
+        "passe-compose-imparfait.strategie"
+      ],
+      "fr": "La porte était fermée ; j’ai appelé l’accueil et une personne est venue ouvrir.",
+      "pt": "A porta estava fechada; liguei para a recepção e uma pessoa veio abrir.",
+      "notePt": "O estado inicial explica duas ações de solução ; o contexto ajuda a escolher a perspectiva."
+    },
+    {
+      "id": "passe-compose-imparfait-e16",
+      "topicIds": [
+        "passe-compose-imparfait.recit"
+      ],
+      "fr": "Pendant le cours, les adultes travaillaient en groupes ; la formatrice a proposé une pause et nous avons repris ensuite.",
+      "pt": "Durante a aula, os adultos trabalhavam em grupos; a formadora propôs uma pausa e depois retomamos.",
+      "notePt": "A atividade em andamento serve de cenário ; a proposta e a retomada organizam a sequência de acontecimentos."
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "passe-compose-imparfait-v01",
+      "fr": "le contexte",
+      "pt": "contexto",
+      "exampleFr": "Je décris le contexte avant l’événement.",
+      "usagePt": ""
+    },
+    {
+      "id": "passe-compose-imparfait-v02",
+      "fr": "le premier plan",
+      "pt": "primeiro plano de uma narrativa",
+      "exampleFr": "L’arrivée est au premier plan du récit.",
+      "usagePt": "Termo de análise de narrativa, não um tempo verbal obrigatório."
+    },
+    {
+      "id": "passe-compose-imparfait-v03",
+      "fr": "l’arrière-plan",
+      "pt": "pano de fundo",
+      "exampleFr": "La description donne l’arrière-plan.",
+      "usagePt": "Masculino ; ajuda a organizar a leitura, sem ser regra mecânica."
+    },
+    {
+      "id": "passe-compose-imparfait-v04",
+      "fr": "une occurrence",
+      "pt": "uma ocorrência",
+      "exampleFr": "Le récit compte trois occurrences.",
+      "usagePt": ""
+    },
+    {
+      "id": "passe-compose-imparfait-v05",
+      "fr": "un bilan",
+      "pt": "balanço de um período",
+      "exampleFr": "J’ai fait un bilan de la semaine.",
+      "usagePt": ""
+    },
+    {
+      "id": "passe-compose-imparfait-v06",
+      "fr": "être en cours",
+      "pt": "estar em andamento",
+      "exampleFr": "La préparation était en cours à son arrivée.",
+      "usagePt": ""
+    },
+    {
+      "id": "passe-compose-imparfait-v07",
+      "fr": "apprendre une nouvelle",
+      "pt": "ficar sabendo de uma novidade",
+      "exampleFr": "J’ai appris une nouvelle au centre.",
+      "usagePt": "Appris é o particípio de apprendre, da família de prendre."
+    },
+    {
+      "id": "passe-compose-imparfait-v08",
+      "fr": "réussir à",
+      "pt": "conseguir realizar algo",
+      "exampleFr": "J’ai réussi à trouver la salle.",
+      "usagePt": "Retomada da construção com à da U09."
+    },
+    {
+      "id": "passe-compose-imparfait-v09",
+      "fr": "la disponibilité",
+      "pt": "disponibilidade",
+      "exampleFr": "Ma disponibilité ne garantissait pas ma présence.",
+      "usagePt": "Garantissait vem de garantir, modelo de finir ; apoio lexical."
+    },
+    {
+      "id": "passe-compose-imparfait-v10",
+      "fr": "un recadrage",
+      "pt": "mudança de enquadramento ou perspectiva",
+      "exampleFr": "Le changement de temps produit un recadrage du récit.",
+      "usagePt": "Termo de apoio editorial, não vocabulário obrigatório de atendimento."
+    },
+    {
+      "id": "passe-compose-imparfait-v11",
+      "fr": "une interprétation",
+      "pt": "interpretação",
+      "exampleFr": "Une autre interprétation demande un autre contexte.",
+      "usagePt": ""
+    },
+    {
+      "id": "passe-compose-imparfait-v12",
+      "fr": "un enchaînement",
+      "pt": "encadeamento",
+      "exampleFr": "Les événements forment un enchaînement clair.",
+      "usagePt": ""
+    }
+  ],
+  "dialogue": {
+    "id": "passe-compose-imparfait-dialogue",
+    "titleFr": "Une arrivée compliquée",
+    "contextFr": "Deux adultes racontent un changement de salle au centre de cours.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "fr": "Pourquoi es-tu arrivée après le début de la séance ?",
+        "pt": "Por que você chegou depois do início do encontro?"
+      },
+      {
+        "speaker": "Clara",
+        "fr": "J’attendais le bus près de chez moi quand j’ai reçu un message du centre.",
+        "pt": "Eu esperava o ônibus perto de casa quando recebi uma mensagem do centro."
+      },
+      {
+        "speaker": "Ana",
+        "fr": "Le cours avait un nouvel horaire ?",
+        "pt": "A aula tinha um novo horário?"
+      },
+      {
+        "speaker": "Clara",
+        "fr": "Non, l’heure était la même, mais la salle n’était plus disponible. Le message proposait une autre entrée.",
+        "pt": "Não, o horário era o mesmo, mas a sala já não estava disponível. A mensagem propunha outra entrada."
+      },
+      {
+        "speaker": "Ana",
+        "fr": "Tu savais où était cette entrée ?",
+        "pt": "Você sabia onde ficava essa entrada?"
+      },
+      {
+        "speaker": "Clara",
+        "fr": "Non. J’ai demandé un plan et j’ai compris le trajet quand l’accueil a répondu.",
+        "pt": "Não. Pedi um mapa e entendi o trajeto quando a recepção respondeu."
+      },
+      {
+        "speaker": "Ana",
+        "fr": "Et le bus ?",
+        "pt": "E o ônibus?"
+      },
+      {
+        "speaker": "Clara",
+        "fr": "Il n’est pas arrivé pendant mon attente. J’ai attendu vingt minutes, puis j’ai pris le train.",
+        "pt": "Ele não chegou durante minha espera. Esperei vinte minutos e depois peguei o trem."
+      },
+      {
+        "speaker": "Ana",
+        "fr": "Au centre, nous préparions les tables. La formatrice a gardé une place pour toi.",
+        "pt": "No centro, preparávamos as mesas. A formadora guardou um lugar para você."
+      },
+      {
+        "speaker": "Clara",
+        "fr": "Merci. Finalement, j’ai pu participer à la deuxième activité.",
+        "pt": "Obrigada. No fim, consegui participar da segunda atividade."
+      }
+    ],
+    "commentaryPt": "A pergunta le cours avait usa avoir no imperfeito simples, não plus-que-parfait. O relato alterna espera em curso, estado da sala e acontecimentos de solução. J’ai pu participar apresenta a realização, não apenas uma possibilidade abstrata.",
+    "questions": [
+      {
+        "id": "passe-compose-imparfait-dq1",
+        "instructionFr": "Qu’est-ce qui a changé : l’heure ou l’accès à la salle ?",
+        "answerFr": "L’accès à la salle ; l’heure est restée la même.",
+        "explanationPt": "O diálogo distingue a informação estável do elemento alterado."
+      },
+      {
+        "id": "passe-compose-imparfait-dq2",
+        "instructionFr": "Clara connaissait-elle déjà la nouvelle entrée ?",
+        "answerFr": "Non. Elle a demandé un plan.",
+        "explanationPt": "A pergunta com savais e a resposta negativa preparam o acontecimento de obter orientação."
+      },
+      {
+        "id": "passe-compose-imparfait-dq3",
+        "instructionFr": "Clara a-t-elle finalement participé à une activité ?",
+        "answerFr": "Oui, à la deuxième activité.",
+        "explanationPt": "J’ai pu participer é acompanhado de resultado explícito, confirmando realização."
+      }
+    ]
+  },
+  "reading": {
+    "id": "passe-compose-imparfait-lecture",
+    "titleFr": "Le repas et la panne de lumière",
+    "paragraphsFr": [
+      "Samedi soir, je préparais le dîner dans mon petit appartement. Il pleuvait dehors et la cuisine était chaude. Ana lisait un message du cours pendant que je coupais les légumes. Nous avions l’habitude de réviser ensemble après le repas. Ce soir-là, nous voulions surtout comprendre la différence entre deux temps du passé.",
+      "Soudain, la lumière s’est éteinte. Nous avons cherché une lampe et Ana a regardé son téléphone. Quelques minutes plus tard, la lumière est revenue. J’ai terminé la soupe et nous avons mangé tranquillement. La préparation n’est donc pas restée inachevée : elle était simplement en cours au moment de la coupure. Après le repas, nous avons écrit quatre phrases sur la soirée. Le décor et les activités en cours étaient à l’imparfait ; la coupure, le retour de la lumière et la fin du repas formaient la suite des événements au passé composé."
+    ],
+    "paragraphsPt": [
+      "No sábado à noite, eu preparava o jantar no meu pequeno apartamento. Chovia lá fora e a cozinha estava quente. Ana lia uma mensagem do curso enquanto eu cortava os legumes. Tínhamos o hábito de revisar juntos depois da refeição. Naquela noite, queríamos principalmente entender a diferença entre dois tempos do passado.",
+      "De repente, a luz apagou. Procuramos uma lanterna e Ana olhou seu telefone. Alguns minutos depois, a luz voltou. Terminei a sopa e comemos tranquilamente. Portanto, o preparo não ficou inacabado: estava apenas em andamento no momento da queda de luz. Depois da refeição, escrevemos quatro frases sobre a noite. O cenário e as atividades em andamento estavam no imperfeito; a queda, a volta da luz e o fim da refeição formavam a sequência de acontecimentos no passé composé."
+    ],
+    "commentaryPt": "O texto é um pequeno relato seguido de uma reflexão dos próprios estudantes. Il pleuvait descreve o clima ; préparais e lisait mostram processos simultâneos. O retorno da luz e o término da sopa demonstram que o imperfeito não significa não conclusão permanente. S’éteindre é fornecido como expressão contextual e não cobrado no banco. Éteinte é o particípio de s’éteindre, concordado com lumière ; a expressão la lumière s’est éteinte significa a luz apagou.",
+    "questions": [
+      {
+        "id": "passe-compose-imparfait-rq1",
+        "instructionFr": "Quelles activités étaient en cours avant la coupure ?",
+        "answerFr": "La préparation du dîner et la lecture d’un message.",
+        "explanationPt": "As formas préparais, lisait e coupais montam a cena em desenvolvimento."
+      },
+      {
+        "id": "passe-compose-imparfait-rq2",
+        "instructionFr": "La soupe est-elle restée inachevée ?",
+        "answerFr": "Non. La personne a terminé la soupe après le retour de la lumière.",
+        "explanationPt": "O resultado posterior é explícito ; não se pode deduzir inacabamento do imperfeito."
+      },
+      {
+        "id": "passe-compose-imparfait-rq3",
+        "instructionFr": "Quels événements structurent la deuxième partie ?",
+        "answerFr": "La coupure de lumière, la recherche d’une lampe, le retour de la lumière et la fin du repas.",
+        "explanationPt": "Eles formam uma sequência recortada, enquanto o primeiro parágrafo apresenta o contexto."
+      }
+    ],
+    "mediation": {
+      "id": "passe-compose-imparfait-mediation",
+      "instructionFr": "Racontez la soirée à une personne absente en quatre phrases : une pour le cadre, deux pour les événements et une pour le résultat.",
+      "modelFr": "La personne préparait le dîner pendant qu’Ana lisait un message. La lumière s’est éteinte et les deux personnes ont cherché une lampe. Quelques minutes plus tard, la lumière est revenue. La personne a terminé la soupe et elles ont mangé tranquillement.",
+      "explanationPt": "O modelo mantém o desfecho real do texto. Les deux personnes é feminino gramatical pelo nome personnes ; isso não permite inferir o gênero de quem narra."
+    }
+  },
+  "listening": {
+    "id": "passe-compose-imparfait-ecoute",
+    "goalFr": "Distinguer le cadre d’une attente et la décision qui suit.",
+    "stimulusFr": "Hier, à dix-huit heures, j’attendais le bus devant le centre. Il faisait froid et plusieurs personnes regardaient les horaires. J’ai attendu vingt minutes au total. Ensuite, j’ai appelé Clara et nous avons décidé de rentrer à pied. Le trajet a duré une demi-heure.",
+    "translationPt": "Ontem, às dezoito, eu esperava o ônibus em frente ao centro. Fazia frio e várias pessoas olhavam os horários. Esperei vinte minutos no total. Depois, liguei para Clara e decidimos voltar a pé. O trajeto durou meia hora.",
+    "questionFr": "Quelle différence y a-t-il entre j’attendais et j’ai attendu dans ce message ?",
+    "answerFr": "J’attendais décrit l’activité à dix-huit heures ; j’ai attendu donne le bilan de toute l’attente.",
+    "explanationPt": "As duas formas podem falar da mesma espera sob perspectivas diferentes. Vinte minutos não força um tempo específico ; o enquadramento da frase é que muda."
+  },
+  "pronunciation": {
+    "id": "passe-compose-imparfait-sons",
+    "titleFr": "Distinguer la forme avant de choisir la graphie",
+    "explanationPt": "Compare j’ai parlé e je parlais : em muitas variedades, o particípio em é e o imperfeito em ais podem apresentar diferença de abertura vocálica, mas há variação e essa oposição não é confiável como único critério. Procure também o auxiliar j’ai, ausente em je parlais. O mesmo raciocínio vale para nous avons travaillé e nous travaillions, em que a estrutura completa é mais perceptível.",
+    "samplesFr": [
+      "j’ai parlé",
+      "je parlais",
+      "nous avons travaillé",
+      "nous travaillions",
+      "elle est arrivée",
+      "elle arrivait"
+    ],
+    "instructionFr": "Écoutez les paires, puis associez chaque phrase à une structure simple ou composée. Écrivez ensuite une phrase de contexte et une phrase d’événement.",
+    "feedbackPt": "A percepção sonora ajuda, mas não decide sozinha grafia e perspectiva. O contexto e a presença do auxiliar precisam ser analisados. Não há avaliação automática do seu contraste de vogais."
+  },
+  "openTasks": [
+    {
+      "id": "passe-compose-imparfait-ecrit",
+      "kind": "writing",
+      "instructionFr": "Racontez en 130 à 160 mots un incident simple pendant un trajet, un repas, un déménagement ou un cours. Donnez un cadre, des événements et un résultat.",
+      "planPt": "Faça primeiro um esquema com duas colunas : contexto e acontecimentos. Escolha uma situação em que o leitor entenda o que estava em curso quando algo aconteceu. Inclua uma duração sem usá-la como gatilho automático de tempo. Depois de escrever, explique para você mesmo duas escolhas e o efeito de trocar uma delas.",
+      "supportFr": [
+        "Il était…",
+        "Je préparais / j’attendais…",
+        "Pendant que…",
+        "À ce moment-là…",
+        "J’ai…",
+        "Elle est…",
+        "Finalement…"
+      ],
+      "modelFr": "Samedi, je préparais un repas avec Ana dans mon appartement. Il pleuvait et nous ne voulions pas sortir. Ana lisait une recette pendant que je coupais les légumes. Nous avions assez de riz, mais il manquait du pain. J’ai appelé Malik et il a proposé d’apporter deux pains. Pendant son trajet, il a reçu un message : l’entrée principale de l’immeuble était fermée pour une intervention. Il ne savait pas où se trouvait l’autre entrée. Il a demandé une précision et j’ai envoyé un petit plan. Quelques minutes plus tard, il est arrivé. Nous avons terminé la préparation et mangé ensemble. Après le repas, nous avons raconté l’incident en français. Le problème a retardé notre déjeuner, mais il a aussi donné une situation utile pour pratiquer les deux temps.",
+      "modelPt": "No sábado, eu preparava uma refeição com Ana no meu apartamento. Chovia e não queríamos sair. Ana lia uma receita enquanto eu cortava os legumes. Tínhamos arroz suficiente, mas faltava pão. Liguei para Malik e ele propôs trazer dois pães. Durante seu trajeto, recebeu uma mensagem: a entrada principal do prédio estava fechada para uma intervenção. Não sabia onde ficava a outra entrada. Pediu uma explicação e enviei um pequeno mapa. Alguns minutos depois, chegou. Terminamos o preparo e comemos juntos. Depois da refeição, contamos o incidente em francês. O problema atrasou nosso almoço, mas também deu uma situação útil para praticar os dois tempos.",
+      "rubricFr": [
+        "Le lecteur distingue le cadre et les événements.",
+        "Je n’associe pas mécaniquement un temps à une durée.",
+        "Les auxiliaires, participes et terminaisons sont corrects dans les modèles étudiés.",
+        "Le résultat est clair et les informations restent cohérentes.",
+        "Je peux justifier deux choix de perspective."
+      ],
+      "commentaryPt": "O modelo é uma narrativa possível, não a única seleção de tempos admissível em qualquer contexto. Uma mudança de perspectiva pode ser legítima se você ajustar o sentido do relato. A escrita livre não recebe correção literal automática.",
+      "topicIds": [
+        "passe-compose-imparfait.pc-forme",
+        "passe-compose-imparfait.imp-forme",
+        "passe-compose-imparfait.cadre-evenement",
+        "passe-compose-imparfait.habitude-bilan",
+        "passe-compose-imparfait.encours",
+        "passe-compose-imparfait.duree",
+        "passe-compose-imparfait.paires-sens",
+        "passe-compose-imparfait.marqueurs",
+        "passe-compose-imparfait.strategie",
+        "passe-compose-imparfait.recit"
+      ]
+    },
+    {
+      "id": "passe-compose-imparfait-oral",
+      "kind": "oral",
+      "instructionFr": "Racontez un incident simple à un partenaire. Il demande ce qui se passait au début, ce qui est arrivé et comment la situation a fini.",
+      "planPt": "Prepare quatro pontos, não um texto para decorar : cenário, atividade em curso, acontecimento e resultado. Seu parceiro deve poder perguntar por uma informação que faltou. Individualmente, alterne as perguntas e o relato, preservando o sentido em vez de buscar velocidade.",
+      "supportFr": [
+        "Qu’est-ce que tu faisais ?",
+        "J’étais… et je…",
+        "Qu’est-ce qui s’est passé ?",
+        "J’ai… / elle est…",
+        "Et ensuite ?",
+        "Finalement…"
+      ],
+      "modelFr": "— Qu’est-ce que tu faisais quand tu as reçu le message ? — J’attendais le bus près du centre. Il faisait froid. — Qu’est-ce que le message annonçait ? — La salle était fermée. J’ai appelé Ana et nous avons choisi un autre lieu. — Tu as pris le bus finalement ? — Non. J’ai attendu dix minutes, puis je suis allé à pied chez Ana. Nous avons travaillé ensemble pendant une heure.",
+      "modelPt": "— O que você estava fazendo quando recebeu a mensagem? — Esperava o ônibus perto do centro. Fazia frio. — O que a mensagem anunciava? — A sala estava fechada. Liguei para Ana e escolhemos outro lugar. — Você acabou pegando o ônibus? — Não. Esperei dez minutos e depois fui a pé à casa de Ana. Trabalhamos juntos durante uma hora.",
+      "rubricFr": [
+        "Je réponds aux trois types de questions.",
+        "Le contexte ne remplace pas les événements.",
+        "Je précise le résultat sans inventer une règle de durée.",
+        "Je peux reformuler une phrase qui reste ambiguë."
+      ],
+      "commentaryPt": "O narrador do modelo é masculino em allé. A autoverificação observa se a história foi compreendida ; não atribui nota de pronúncia ou certificação.",
+      "topicIds": [
+        "passe-compose-imparfait.pc-forme",
+        "passe-compose-imparfait.imp-forme",
+        "passe-compose-imparfait.cadre-evenement",
+        "passe-compose-imparfait.habitude-bilan",
+        "passe-compose-imparfait.encours",
+        "passe-compose-imparfait.duree",
+        "passe-compose-imparfait.paires-sens",
+        "passe-compose-imparfait.marqueurs",
+        "passe-compose-imparfait.strategie",
+        "passe-compose-imparfait.recit"
+      ]
+    }
+  ],
+  "errorClinic": [
+    {
+      "wrongFr": "J’ai travaillais pendant deux heures.",
+      "correctFr": "J’ai travaillé pendant deux heures.",
+      "explanationPt": "A forma mistura auxiliar de tempo composto e verbo no imperfeito ; escolha a estrutura correspondente à perspectiva desejada."
+    },
+    {
+      "wrongFr": "Elle est arrivé au centre.",
+      "correctFr": "Elle est arrivée au centre.",
+      "explanationPt": "Nos casos simples de arriver com être, o particípio concorda com o sujeito feminino."
+    },
+    {
+      "wrongFr": "Hier impose toujours le passé composé.",
+      "correctFr": "Hier situe le jour ; le contexte détermine la perspective.",
+      "explanationPt": "Um marcador de data não funciona como comando automático de tempo."
+    },
+    {
+      "wrongFr": "L’imparfait signifie que l’action ne s’est jamais terminée.",
+      "correctFr": "L’imparfait présente l’action sans en focaliser les limites au point considéré.",
+      "explanationPt": "O resultado real posterior precisa do contexto e pode ser uma conclusão normal."
+    }
+  ],
+  "selfAssessmentFr": [
+    "Je peux choisir une perspective pour raconter le passé",
+    "Je peux former et accorder les deux temps dans les cas étudiés",
+    "Je peux distinguer un événement, une habitude et un cadre",
+    "Je peux expliquer un changement de sens quand le temps change",
+    "Je peux construire un récit avec les deux temps"
+  ],
+  "revisionPt": "A escolha central é de perspectiva : acontecimento ou conjunto visto globalmente, ou contexto, hábito, estado e andamento observados de dentro. Duração, repetição e marcadores como hier não funcionam sozinhos. A troca de tempo pode alterar o sentido, como saber versus ficar sabendo, ou poder versus conseguir no cenário apresentado. Revise forma e função separadamente. As vinte questões desta unidade têm dez alvos no passé composé e dez no imparfait, com dez múltiplas escolhas e dez lacunas.",
+  "references": [
+    "cefr-a2",
+    "oqlf-pc",
+    "oqlf-imparfait",
+    "oqlf-pronominaux"
+  ],
+  "questions": [
+    {
+      "id": "passe-compose-imparfait-q01",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Ana raconte un achat unique comme une étape réalisée de sa journée.",
+      "sentenceFr": "Au marché, elle ____ deux kilos de tomates, puis elle est rentrée.",
+      "targetSkill": "passe-compose-imparfait.pc-forme",
+      "targetStructure": "pc-forme",
+      "topicIds": [
+        "passe-compose-imparfait.pc-forme"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "a acheté"
+        },
+        {
+          "id": "b",
+          "textFr": "achetait"
+        },
+        {
+          "id": "c",
+          "textFr": "achète"
+        },
+        {
+          "id": "d",
+          "textFr": "va acheter"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Au marché, elle a acheté deux kilos de tomates, puis elle est rentrée.",
+      "explanationPt": "O enunciado recorta a compra como etapa realizada antes do retorno. Passé composé com avoir : a acheté ; a repetição ou o andamento não são o foco pedido.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q02",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Décrivez la routine d’une ancienne période, sans compter des trajets précis.",
+      "sentenceFr": "À cette époque, nous ____ le train chaque mardi.",
+      "targetSkill": "passe-compose-imparfait.imp-forme",
+      "targetStructure": "imp-forme",
+      "topicIds": [
+        "passe-compose-imparfait.imp-forme"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "prenions"
+        },
+        {
+          "id": "b",
+          "textFr": "avons pris"
+        },
+        {
+          "id": "c",
+          "textFr": "prenons"
+        },
+        {
+          "id": "d",
+          "textFr": "allons prendre"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "À cette époque, nous prenions le train chaque mardi.",
+      "explanationPt": "A perspectiva de rotina contextual pede prenions, base pren- mais ions. Um balanço delimitado poderia usar outro tempo em outro contexto.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q03",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Décrivez le décor tel qu’il se présentait au moment de l’arrivée, sans raconter un changement de taille.",
+      "sentenceFr": "Quand Ana est arrivée, la salle ____ petite et pleine de monde.",
+      "targetSkill": "passe-compose-imparfait.cadre-evenement",
+      "targetStructure": "cadre-evenement",
+      "topicIds": [
+        "passe-compose-imparfait.cadre-evenement"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "était"
+        },
+        {
+          "id": "b",
+          "textFr": "a été"
+        },
+        {
+          "id": "c",
+          "textFr": "est"
+        },
+        {
+          "id": "d",
+          "textFr": "sera"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Quand Ana est arrivée, la salle était petite et pleine de monde.",
+      "explanationPt": "Était descreve a característica da cena naquele momento. A frase não conta uma transformação da sala nem informa seu estado atual.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q04",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Faites le bilan exact de six trajets pendant un stage terminé de deux semaines.",
+      "sentenceFr": "Pendant ce stage, j’____ le bus six fois au total.",
+      "targetSkill": "passe-compose-imparfait.habitude-bilan",
+      "targetStructure": "habitude-bilan",
+      "topicIds": [
+        "passe-compose-imparfait.habitude-bilan"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "ai pris"
+        },
+        {
+          "id": "b",
+          "textFr": "prenais"
+        },
+        {
+          "id": "c",
+          "textFr": "ai prendre"
+        },
+        {
+          "id": "d",
+          "textFr": "prends"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Pendant ce stage, j’ai pris le bus six fois au total.",
+      "explanationPt": "As seis ocorrências formam um total delimitado apresentado globalmente : ai pris. Repetição não impõe imperfeito.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q05",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "La préparation était déjà en cours au moment où le téléphone a sonné ; on ne précise pas encore sa fin.",
+      "sentenceFr": "Je ____ la soupe quand le téléphone a sonné.",
+      "targetSkill": "passe-compose-imparfait.encours",
+      "targetStructure": "encours",
+      "topicIds": [
+        "passe-compose-imparfait.encours"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "préparais"
+        },
+        {
+          "id": "b",
+          "textFr": "ai préparé"
+        },
+        {
+          "id": "c",
+          "textFr": "prépare"
+        },
+        {
+          "id": "d",
+          "textFr": "vais préparer"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Je préparais la soupe quand le téléphone a sonné.",
+      "explanationPt": "Préparais mostra a atividade em curso no ponto passado. A frase não afirma que a sopa nunca foi terminada.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q06",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Racontez toute l’attente comme un épisode terminé avant la décision de marcher.",
+      "sentenceFr": "J’____ quarante minutes, puis j’ai décidé de rentrer à pied.",
+      "targetSkill": "passe-compose-imparfait.duree",
+      "targetStructure": "duree",
+      "topicIds": [
+        "passe-compose-imparfait.duree"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "ai attendu"
+        },
+        {
+          "id": "b",
+          "textFr": "attendais"
+        },
+        {
+          "id": "c",
+          "textFr": "attends"
+        },
+        {
+          "id": "d",
+          "textFr": "vais attendre"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "J’ai attendu quarante minutes, puis j’ai décidé de rentrer à pied.",
+      "explanationPt": "A espera longa é recortada como um todo anterior à decisão. A duração não proíbe passé composé.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q07",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "La personne a effectivement participé grâce à un nouvel horaire ; exprimez cette possibilité réalisée.",
+      "sentenceFr": "Grâce au changement, j’____ venir au cours samedi.",
+      "targetSkill": "passe-compose-imparfait.paires-sens",
+      "targetStructure": "paires-sens",
+      "topicIds": [
+        "passe-compose-imparfait.paires-sens"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "ai pu"
+        },
+        {
+          "id": "b",
+          "textFr": "pouvais"
+        },
+        {
+          "id": "c",
+          "textFr": "peux"
+        },
+        {
+          "id": "d",
+          "textFr": "vais pouvoir"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Grâce au changement, j’ai pu venir au cours samedi.",
+      "explanationPt": "Ai pu apresenta, neste cenário, a possibilidade concretizada. Pouvais descreveria disponibilidade sem afirmar sozinho a participação.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q08",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Hier à huit heures, on observe une attente déjà en cours ; on ne fait pas le bilan de sa durée.",
+      "sentenceFr": "Hier, à huit heures, les voyageurs ____ encore devant l’arrêt.",
+      "targetSkill": "passe-compose-imparfait.marqueurs",
+      "targetStructure": "marqueurs",
+      "topicIds": [
+        "passe-compose-imparfait.marqueurs"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "attendaient"
+        },
+        {
+          "id": "b",
+          "textFr": "ont attendu"
+        },
+        {
+          "id": "c",
+          "textFr": "attendent"
+        },
+        {
+          "id": "d",
+          "textFr": "vont attendre"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Hier, à huit heures, les voyageurs attendaient encore devant l’arrêt.",
+      "explanationPt": "Hier situe le jour ; a perspectiva explícita de atividade em curso pede attendaient, não uma escolha automática por marcador.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q09",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "La narratrice est une femme. Présentez son arrivée comme l’événement suivant une demande de plan.",
+      "sentenceFr": "J’ai demandé un plan, puis je ____ au centre à dix-neuf heures.",
+      "targetSkill": "passe-compose-imparfait.strategie",
+      "targetStructure": "strategie",
+      "topicIds": [
+        "passe-compose-imparfait.strategie"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "suis arrivée"
+        },
+        {
+          "id": "b",
+          "textFr": "arrivais"
+        },
+        {
+          "id": "c",
+          "textFr": "suis arrivé"
+        },
+        {
+          "id": "d",
+          "textFr": "ai arrivée"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "J’ai demandé un plan, puis je suis arrivée au centre à dix-neuf heures.",
+      "explanationPt": "O evento recortado pede passé composé ; arriver usa être e a narradora feminina exige arrivée.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q10",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "mcq",
+      "instructionFr": "Au début du récit, décrivez l’activité simultanée d’Ana pendant la préparation, sans la compter comme épisode clos.",
+      "sentenceFr": "Pendant que je préparais le repas, Ana ____ le message du cours.",
+      "targetSkill": "passe-compose-imparfait.recit",
+      "targetStructure": "recit",
+      "topicIds": [
+        "passe-compose-imparfait.recit"
+      ],
+      "options": [
+        {
+          "id": "a",
+          "textFr": "lisait"
+        },
+        {
+          "id": "b",
+          "textFr": "a lu"
+        },
+        {
+          "id": "c",
+          "textFr": "lit"
+        },
+        {
+          "id": "d",
+          "textFr": "va lire"
+        }
+      ],
+      "correctOptionId": "a",
+      "acceptedAnswers": [],
+      "completedSentenceFr": "Pendant que je préparais le repas, Ana lisait le message du cours.",
+      "explanationPt": "Lisait e préparais apresentam duas atividades simultâneas de fundo. Nenhuma é recortada aqui como etapa concluída.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q11",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez faire pour raconter la préparation comme un événement réalisé ; écrivez auxiliaire et participe avec nous.",
+      "sentenceFr": "Ensuite, nous ____ une salade et nous avons mis la table.",
+      "targetSkill": "passe-compose-imparfait.pc-forme",
+      "targetStructure": "pc-forme",
+      "topicIds": [
+        "passe-compose-imparfait.pc-forme"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "avons fait"
+      ],
+      "completedSentenceFr": "Ensuite, nous avons fait une salade et nous avons mis la table.",
+      "explanationPt": "O encadeamento de acontecimentos pede avons fait ; fait é o particípio de faire.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q12",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez être pour décrire l’état du groupe au début de la scène, sujet nous.",
+      "sentenceFr": "Au début de la soirée, nous ____ fatigués et la salle était calme.",
+      "targetSkill": "passe-compose-imparfait.imp-forme",
+      "targetStructure": "imp-forme",
+      "topicIds": [
+        "passe-compose-imparfait.imp-forme"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "étions"
+      ],
+      "completedSentenceFr": "Au début de la soirée, nous étions fatigués et la salle était calme.",
+      "explanationPt": "Être no imperfeito usa ét- mais ions. O estado compõe o contexto inicial.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q13",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Ana et Clara sont deux femmes. Racontez leur entrée comme un événement de la suite ; écrivez auxiliaire et participe de entrer.",
+      "sentenceFr": "La salle était prête. Ana et Clara ____ à dix-neuf heures.",
+      "targetSkill": "passe-compose-imparfait.cadre-evenement",
+      "targetStructure": "cadre-evenement",
+      "topicIds": [
+        "passe-compose-imparfait.cadre-evenement"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "sont entrées"
+      ],
+      "completedSentenceFr": "La salle était prête. Ana et Clara sont entrées à dix-neuf heures.",
+      "explanationPt": "A entrada faz avançar o relato ; entrer usa être e entrées concorda com as duas mulheres.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q14",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez déjeuner pour décrire une habitude d’une ancienne période, sans total d’occurrences.",
+      "sentenceFr": "Quand je travaillais près du centre, je ____ au café le vendredi.",
+      "targetSkill": "passe-compose-imparfait.habitude-bilan",
+      "targetStructure": "habitude-bilan",
+      "topicIds": [
+        "passe-compose-imparfait.habitude-bilan"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "déjeunais"
+      ],
+      "completedSentenceFr": "Quand je travaillais près du centre, je déjeunais au café le vendredi.",
+      "explanationPt": "A rotina descrita pede imperfeito ; a base de nous déjeunons é déjeun-.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q15",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez écrire pour une activité déjà en cours au moment de l’arrivée, sujet elle.",
+      "sentenceFr": "Elle ____ un message quand Malik est arrivé.",
+      "targetSkill": "passe-compose-imparfait.encours",
+      "targetStructure": "encours",
+      "topicIds": [
+        "passe-compose-imparfait.encours"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "écrivait"
+      ],
+      "completedSentenceFr": "Elle écrivait un message quand Malik est arrivé.",
+      "explanationPt": "Écrivait observa a escrita em andamento. A chegada não implica que a mensagem nunca foi terminada.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q16",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez travailler pour présenter la journée de huit heures comme un épisode entier ; écrivez auxiliaire et participe avec je, sans j’.",
+      "sentenceFr": "Samedi, j’____ pendant huit heures, puis j’ai fermé le dossier.",
+      "targetSkill": "passe-compose-imparfait.duree",
+      "targetStructure": "duree",
+      "topicIds": [
+        "passe-compose-imparfait.duree"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "ai travaillé"
+      ],
+      "completedSentenceFr": "Samedi, j’ai travaillé pendant huit heures, puis j’ai fermé le dossier.",
+      "explanationPt": "A duração longa pertence a um episódio global antes do fechamento ; ai travaillé é a estrutura composta adequada à perspectiva solicitada.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q17",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez savoir pour présenter l’obtention de l’information à ce moment précis ; écrivez auxiliaire et participe avec je, sans j’.",
+      "sentenceFr": "J’____ où était la salle au moment où l’accueil a envoyé le plan.",
+      "targetSkill": "passe-compose-imparfait.paires-sens",
+      "targetStructure": "paires-sens",
+      "topicIds": [
+        "passe-compose-imparfait.paires-sens"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "ai su"
+      ],
+      "completedSentenceFr": "J’ai su où était la salle au moment où l’accueil a envoyé le plan.",
+      "explanationPt": "Ai su apresenta a obtenção da informação no cenário. Savais descreveria conhecimento já disponível, outra perspectiva.",
+      "targetTense": "passé composé"
+    },
+    {
+      "id": "passe-compose-imparfait-q18",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez habiter pour décrire une situation qui durait déjà depuis deux mois au moment passé de la rencontre.",
+      "sentenceFr": "J’____ dans cet appartement depuis deux mois quand j’ai rencontré ma voisine.",
+      "targetSkill": "passe-compose-imparfait.marqueurs",
+      "targetStructure": "marqueurs",
+      "topicIds": [
+        "passe-compose-imparfait.marqueurs"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "habitais"
+      ],
+      "completedSentenceFr": "J’habitais dans cet appartement depuis deux mois quand j’ai rencontré ma voisine.",
+      "explanationPt": "Depuis se liga ao ponto passado do encontro ; habitais descreve a situação em curso até essa referência, não necessariamente até hoje.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q19",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez vouloir pour décrire l’intention de fond, sans raconter une tentative précise, sujet nous.",
+      "sentenceFr": "À cette époque, nous ____ surtout comprendre les annonces de la gare.",
+      "targetSkill": "passe-compose-imparfait.strategie",
+      "targetStructure": "strategie",
+      "topicIds": [
+        "passe-compose-imparfait.strategie"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "voulions"
+      ],
+      "completedSentenceFr": "À cette époque, nous voulions surtout comprendre les annonces de la gare.",
+      "explanationPt": "Voulions descreve a intenção habitual/de fundo da época. Um episódio de tentativa poderia adotar outra perspectiva.",
+      "targetTense": "imparfait"
+    },
+    {
+      "id": "passe-compose-imparfait-q20",
+      "moduleId": "passe-compose-imparfait",
+      "bankId": "passe-compose-imparfait",
+      "type": "fill",
+      "instructionFr": "Conjuguez terminer pour raconter le résultat effectivement obtenu après le retour de la lumière ; écrivez auxiliaire et participe avec je, sans j’.",
+      "sentenceFr": "La lumière est revenue. J’____ la soupe et nous avons mangé.",
+      "targetSkill": "passe-compose-imparfait.recit",
+      "targetStructure": "recit",
+      "topicIds": [
+        "passe-compose-imparfait.recit"
+      ],
+      "options": [],
+      "correctOptionId": null,
+      "acceptedAnswers": [
+        "ai terminé"
+      ],
+      "completedSentenceFr": "La lumière est revenue. J’ai terminé la soupe et nous avons mangé.",
+      "explanationPt": "O resultado obtido entra na sequência de acontecimentos. A preparação antes descrita no imperfeito pôde ser concluída normalmente.",
+      "targetTense": "passé composé"
+    }
+  ],
+  "tables": [
+    {
+      "id": "passe-compose-imparfait-comparaison",
+      "titleFr": "Deux temps, deux perspectives",
+      "headersFr": [
+        "Point de comparaison",
+        "Passé composé",
+        "Imparfait"
+      ],
+      "columnLang": [
+        "fr",
+        "pt-BR",
+        "pt-BR"
+      ],
+      "rows": [
+        [
+          "Formation",
+          "Auxiliar no presente + particípio : `j’ai pris`, `elle est venue`.",
+          "Base de `nous` no presente sem `ons` + terminações ; exceção `ét-` : `je prenais`, `elle était`."
+        ],
+        [
+          "Perspective",
+          "Acontecimento ou conjunto de ocorrências visto globalmente no recorte escolhido.",
+          "Contexto, hábito, estado ou atividade observada em desenvolvimento no ponto passado."
+        ],
+        [
+          "Durée",
+          "Pode englobar duração longa : `j’ai travaillé pendant huit heures`.",
+          "Não afirma ausência de fim real : `à dix heures, je travaillais` observa o processo."
+        ],
+        [
+          "Répétition",
+          "Balanço delimitado : `j’ai pris le bus six fois pendant le stage`.",
+          "Rotina apresentada como contexto : `je prenais le bus le mardi`."
+        ],
+        [
+          "Accord",
+          "Com `être`, concordância nos casos ensinados ; cuidados específicos dos pronominais. Com `avoir`, não concordar apenas com o sujeito.",
+          "A terminação concorda com o sujeito ; não há particípio nem auxiliar na forma simples."
+        ],
+        [
+          "Question utile",
+          "O que aconteceu, ou qual ocorrência/conjunto é apresentado como um todo?",
+          "Como era a situação, o que se fazia habitualmente ou o que estava em curso naquele momento?"
+        ]
+      ]
+    }
+  ]
+}

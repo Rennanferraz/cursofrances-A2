@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="description" content="Atelier français A2 — unité pilote : passé composé et imparfait. Guide interactif pour lusophones, progression locale et sauvegarde portable.">
+<title>Atelier français · Votre parcours A2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;450;500;550;600;650;700;750;800&display=swap" rel="stylesheet">
+<style>/*__CSS__*/</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Aller au contenu</a>
+<div class="tricolor" aria-hidden="true"><span></span><span></span><span></span></div>
+<header class="masthead">
+ <div class="header-inner">
+  <a class="brand" href="#parcours" aria-label="Atelier français, accueil"><span class="brand-mark" aria-hidden="true">af<span>.</span></span><span><strong>atelier français<span class="brand-level">A2</span></strong><small>PROJET RENAN · GUIDE INTERACTIF</small></span></a>
+  <nav class="main-nav" aria-label="Navigation principale">
+   <a href="#parcours" data-nav="parcours">Mon parcours</a><a href="#unite/learn/0" data-nav="unite">Unité pilote</a><a href="#revisions" data-nav="revisions">Mes révisions<span id="review-count" class="nav-count" hidden></span></a>
+  </nav>
+  <div class="header-actions"><span class="save-state" id="save-state" title="Le navigateur conserve votre progression quand son stockage est disponible."><span></span>Enregistré ici</span><button class="button button-outline button-compact" data-action="backup" id="backup-top"><span class="backup-icon" aria-hidden="true">⇄</span><span>Sauvegarde</span></button></div>
+ </div>
+</header>
+<div id="storage-warning" class="storage-warning" role="status" hidden></div>
+<main id="main" tabindex="-1"></main>
+<footer class="footer"><span>atelier français <b>·</b> Projet Renan</span><span>Prototype U19 · 0.3.0</span><button class="text-button" data-action="about">À propos & ressources</button></footer>
+<div id="live" class="sr-only" role="status" aria-live="polite"></div>
+<div id="toast" class="toast" role="status" hidden></div>
+<dialog id="modal" aria-labelledby="modal-title"><div class="dialog-top"><span class="eyebrow">ATELIER FRANÇAIS</span><button class="icon-button" data-action="close-modal" aria-label="Fermer la fenêtre">✕</button></div><div id="modal-content"></div></dialog>
+<input id="import-file" class="sr-only" type="file" accept=".json,application/json" tabindex="-1" aria-label="Importer un fichier de progression JSON">
+<noscript><p class="noscript">Ce guide a besoin de JavaScript pour afficher les activités et conserver votre progression.</p></noscript>
+<script type="application/json" id="pilot-data">/*__DATA__*/</script>
+<script>/*__APP__*/</script>
+</body>
+</html>

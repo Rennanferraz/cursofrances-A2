@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-28",
+  "browser": "144.0.7559.96",
+  "environment": "Headless Chromium; HTML injected into about:blank because enterprise URL policy blocks file/http navigation. Explicit Web Storage fixture for persistence tests. No policy was changed.",
+  "tests": [
+    {
+      "test": "36 unidades no mapa; somente U19 disponível; nenhuma conclusão fictícia",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Busca, localização da U36, objetivos originais no modal e Escape",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Múltipla escolha, verificação única, feedback e preservação da primeira tentativa",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "10 fichas marcadas e 10 checkpoints respondidos com IDs originais",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Retomada de série e alternativa ainda não corrigida em novo documento",
+      "result": "passed",
+      "details": "Web Storage simulado explicitamente"
+    },
+    {
+      "test": "Banco completo: 20 questões, resultado e histórico de tentativa",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Diálogo, leitura, vocabulário e 6 questões contextualizadas",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "4 questões de som/leitura; transcrição de contingência; iframe só por clique",
+      "result": "passed",
+      "details": "Rede externa bloqueada: reprodução real não testada"
+    },
+    {
+      "test": "Três recortes de drills com seis perguntas; conclusão e repetição sem cronômetro",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "46 questões distintas e 6 etapas completas, sem exigir acerto integral ou vídeo",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Revisão reúne erros reais; correção atualiza o resultado sem apagar a primeira tentativa",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Exportação JSON real por Blob e evento de download do navegador",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Importação em contexto isolado: prévia, cancelar, confirmar e restauração de estado",
+      "result": "passed",
+      "details": "Dois contextos Chromium; não equivale a validar outro motor de navegador"
+    },
+    {
+      "test": "Importações inválidas ou >3 MB rejeitadas sem alterar o progresso",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Arquivo 0.2 preservado separadamente; não sobrepõe respostas nem modifica a chave antiga",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Sem rolagem horizontal em 320, 390, 768 e 1440 px: 9 vistas + modal, inclusive A+",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Modo foco reversível e controle de tamanho de leitura",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Armazenamento nativo indisponível: aviso, estudo e exportação em memória",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Quota/recusa ao gravar: aviso explícito e sem perda silenciosa",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Texto, questão, feedback e histórico disponíveis sem rede",
+      "result": "passed",
+      "details": "HTML injetado; Web Storage simulado"
+    },
+    {
+      "test": "Nenhuma exceção JavaScript não tratada durante a suíte",
+      "result": "passed",
+      "details": ""
+    },
+    {
+      "test": "Gabaritos: 46 IDs únicos, quatro opções distintas e uma chave correta por questão",
+      "result": "passed",
+      "details": "Checagem adicional na compilação final"
+    },
+    {
+      "test": "Hash da U19 de referência preservado",
+      "result": "passed",
+      "details": "Checagem adicional na compilação final"
+    },
+    {
+      "test": "Link de apoio retorna à revisão de origem sem perder a série",
+      "result": "passed",
+      "details": "Checagem adicional na compilação final"
+    },
+    {
+      "test": "Conflito entre abas informa o usuário e interrompe gravação",
+      "result": "passed",
+      "details": "Checagem adicional na compilação final"
+    },
+    {
+      "test": "Dados atuais corrompidos não são sobrescritos silenciosamente",
+      "result": "passed",
+      "details": "Checagem adicional na compilação final"
+    },
+    {
+      "test": "Seleção e verificação de resposta por teclado",
+      "result": "passed",
+      "details": "Checagem adicional na compilação final"
+    },
+    {
+      "test": "Capturas finais e prioridade visual do feedback sobre a alternativa selecionada",
+      "result": "passed",
+      "details": "Nova compilação, azul de seleção substituído por vermelho/verde após correção"
+    }
+  ],
+  "pageErrors": [],
+  "notVerified": [
+    "Native file:// persistence on user device",
+    "Actual Firefox/Safari/Edge execution",
+    "Physical smartphone use",
+    "YouTube playback or embedding authorization",
+    "French voice output on installed operating systems",
+    "External Google Fonts availability",
+    "Pedagogical approval by coordinator"
+  ],
+  "artifactSha256": "19554d5d81743e7a55da799a8969653b69a240badd2bb2eb1954b83b9207b123"
+}

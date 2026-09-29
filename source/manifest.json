@@ -1,0 +1,39 @@
+{
+  "sourceArchive": "A2.zip",
+  "baseKit": "Frances_A2_kit_continuidade_MCQ_001.zip",
+  "originalUnitSha256": "b1e6aa699fc097a4848f92f6b1a401fee100840ca02443303497e314779b59c9",
+  "version": "0.3.0-pilote-u19",
+  "counts": {
+    "mappedUnits": 36,
+    "implementedUnits": 1,
+    "theoryCards": 10,
+    "examples": 16,
+    "vocabulary": 12,
+    "uniqueMCQs": 46,
+    "bankMCQs": 20,
+    "checkpoints": 10,
+    "context": 6,
+    "sound": 4,
+    "application": 6
+  },
+  "changesPt": [
+    "Dez lacunas do banco convertidas com as propostas recebidas, IDs preservados.",
+    "Dez checkpoints, seis perguntas de leitura/diálogo e uma escuta convertidos para MCQ.",
+    "Três MCQs de reconhecimento estrutural da fonética e seis de aplicação/ mediação adaptados nesta edição.",
+    "Alternativas embaralhadas na apresentação, mantendo o gabarito por ID.",
+    "Modelos de produção mantidos como textos de apoio; comandos de produção livre removidos da interface.",
+    "Correção editorial registrada: J’ai pu participar → J’ai pu participer no comentário do diálogo.",
+    "Resumo final atualizado para não informar que o banco ainda contém lacunas de digitação.",
+    "Blocos do mapa são agrupamentos visuais do piloto; nomes e sequência de todas as 36 unidades preservados.",
+    "Os níveis das unidades fora do piloto não foram reclassificados; decisões do novo esquema ficam pendentes."
+  ],
+  "pedagogicalReview": "Adaptação editorial para protótipo; revisão final do coordenador pendente.",
+  "sourceFiles": [
+    "PROJET RENAN.docx",
+    "SCHÉMA D’APPRENTISSAGE PAR NIVEAUX (CECR).docx",
+    "STRUCTURE TYPE D’UNE UNITÉ PÉDAGOGIQUE DU SITE.docx",
+    "19.json",
+    "course.json",
+    "PROPOSTAS_ALTERNATIVAS_MCQ.json"
+  ]
+}
